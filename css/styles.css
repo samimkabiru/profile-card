@@ -1,0 +1,29 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Typography */
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Kumbh Sans", Arial, Helvetica, sans-serif;
+  font-size: 1.8rem;
+  color: hsl(227, 10%, 46%);
+}
+
+h1,
+h2 {
+  color: hsl(229, 23%, 23%);
+}
+
+h1 {
+  font-size: 1.9rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
